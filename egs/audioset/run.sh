@@ -31,9 +31,9 @@ else
   bal=bal
   lr=1e-5
   epoch=5
-  tr_data=/data/sls/scratch/yuangong/aed-pc/src/enhance_label/datafiles_local/whole_train_data.json
+  tr_data=./data/datafiles/train_data.json
 fi
-te_data=/data/sls/scratch/yuangong/audioset/datafiles/eval_data.json
+te_data=./data/datafiles/eval_data.json
 freqm=48
 timem=192
 mixup=0.5
