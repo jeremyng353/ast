@@ -64,7 +64,7 @@ def train(audio_model, train_loader, test_loader, args):
         main_metrics = 'mAP'
         loss_fn = nn.BCEWithLogitsLoss()
         warmup = True
-    elif args.dataset == 'esc50':
+    elif args.dataset == 'esc50' or args.dataset == 'isolatedurban':
         print('scheduler for esc-50 is used')
         scheduler = torch.optim.lr_scheduler.MultiStepLR(optimizer, list(range(5,26)), gamma=0.85)
         main_metrics = 'acc'

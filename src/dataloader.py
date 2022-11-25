@@ -102,7 +102,8 @@ class AudiosetDataset(Dataset):
             waveform = waveform - waveform.mean()
         # mixup
         else:
-            waveform1, sr = torchaudio.load(filename)
+            print(filename)
+            waveform1, sr = torchaudio.load(filename)           # TODO: can't read audio file here                
             waveform2, _ = torchaudio.load(filename2)
 
             waveform1 = waveform1 - waveform1.mean()
@@ -112,6 +113,7 @@ class AudiosetDataset(Dataset):
                 if waveform1.shape[1] > waveform2.shape[1]:
                     # padding
                     temp_wav = torch.zeros(1, waveform1.shape[1])
+                    print(waveform2.shape)
                     temp_wav[0, 0:waveform2.shape[1]] = waveform2
                     waveform2 = temp_wav
                 else:
@@ -163,7 +165,7 @@ class AudiosetDataset(Dataset):
             mix_sample_idx = random.randint(0, len(self.data)-1)
             mix_datum = self.data[mix_sample_idx]
             # get the mixed fbank
-            fbank, mix_lambda = self._wav2fbank(datum['wav'], mix_datum['wav'])
+            fbank, mix_lambda = self._wav2fbank(datum['wav'], mix_datum['wav'])     # TODO: can't read audio file here
             # initialize the label
             label_indices = np.zeros(self.label_num)
             # add sample 1 labels

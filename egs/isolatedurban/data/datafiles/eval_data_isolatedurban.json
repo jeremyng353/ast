@@ -1,0 +1,140 @@
+{
+    "data": [
+        {
+            "wav": "./data/datafiles/isolatedurban/cityStep03.wav",
+            "labels": "/m/07pbtc8"
+        },
+        {
+            "wav": "./data/datafiles/isolatedurban/cityStep06.wav",
+            "labels": "/m/07pbtc8"
+        },
+        {
+            "wav": "./data/datafiles/isolatedurban/carHorn05.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/isolatedurban/cityCar13.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/isolatedurban/roadCar02.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/isolatedurban/roadCar11.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/isolatedurban/carHorn11.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/isolatedurban/cityCar27.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/isolatedurban/voice02.wav",
+            "labels": "/m/09x0r"
+        },
+        {
+            "wav": "./data/datafiles/isolatedurban/cityCar05.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/isolatedurban/carHorn12.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/isolatedurban/cityCar23.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/isolatedurban/stepPark03.wav",
+            "labels": "/m/07pbtc8"
+        },
+        {
+            "wav": "./data/datafiles/isolatedurban/voice12.wav",
+            "labels": "/m/09x0r"
+        },
+        {
+            "wav": "./data/datafiles/isolatedurban/voice04.wav",
+            "labels": "/m/09x0r"
+        },
+        {
+            "wav": "./data/datafiles/isolatedurban/carHorn01.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/isolatedurban/stepPark02.wav",
+            "labels": "/m/07pbtc8"
+        },
+        {
+            "wav": "./data/datafiles/isolatedurban/truck02.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/isolatedurban/roadCar03.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/isolatedurban/cityStep04.wav",
+            "labels": "/m/07pbtc8"
+        },
+        {
+            "wav": "./data/datafiles/isolatedurban/cityCar18.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/isolatedurban/roadCar08.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/isolatedurban/cityStep01.wav",
+            "labels": "/m/07pbtc8"
+        },
+        {
+            "wav": "./data/datafiles/isolatedurban/carHorn13.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/isolatedurban/cityCar02.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/isolatedurban/voice09.wav",
+            "labels": "/m/09x0r"
+        },
+        {
+            "wav": "./data/datafiles/isolatedurban/roadCar14.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/isolatedurban/stopCar04.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/isolatedurban/cityCar11.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/isolatedurban/roadCar16.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/isolatedurban/cityCar09.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/isolatedurban/stopCar02.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/isolatedurban/voice05.wav",
+            "labels": "/m/09x0r"
+        },
+        {
+            "wav": "./data/datafiles/isolatedurban/cityCar17.wav",
+            "labels": "/m/02mk9"
+        }
+    ]
+}
