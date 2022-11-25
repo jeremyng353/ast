@@ -33,7 +33,11 @@ def calculate_stats(output, target):
             target[:, k], output[:, k], average=None)
 
         # AUC
-        auc = metrics.roc_auc_score(target[:, k], output[:, k], average=None)
+        auc = 0
+        try:
+            auc = metrics.roc_auc_score(target[:, k], output[:, k], average=None)
+        except:
+            print('auc undefined, only one class in y_true')
 
         # Precisions, recalls
         (precisions, recalls, thresholds) = metrics.precision_recall_curve(
