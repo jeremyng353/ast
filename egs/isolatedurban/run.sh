@@ -40,7 +40,7 @@ mixup=0.5
 # corresponding to overlap of 6 for 16*16 patches
 fstride=10
 tstride=10
-batch_size=12
+batch_size=4
 exp_dir=./exp/test-${set}-f$fstride-t$tstride-p$imagenetpretrain-b$batch_size-lr${lr}-demo
 if [ -d $exp_dir ]; then
   echo 'exp exist'
