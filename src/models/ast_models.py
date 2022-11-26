@@ -179,6 +179,8 @@ class ASTModel(nn.Module):
         cls_tokens = self.v.cls_token.expand(B, -1, -1)
         dist_token = self.v.dist_token.expand(B, -1, -1)
         x = torch.cat((cls_tokens, dist_token, x), dim=1)
+        print(f'x size: {x.size()}')
+        print(f'pos_embed size: {self.v.pos_embed.size()}')
         x = x + self.v.pos_embed
         x = self.v.pos_drop(x)
         for blk in self.v.blocks:
