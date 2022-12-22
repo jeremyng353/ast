@@ -40,6 +40,9 @@ if [ -d $base_exp_dir ]; then
 fi
 mkdir -p $base_exp_dir
 
+tr_data=./data/datafiles/train_data_isolatedurban.json
+te_data=./data/datafiles/eval_data_isolatedurban.json
+
 CUDA_CACHE_DISABLE=1 python -W ignore ../../src/run.py --model ${model} --dataset ${dataset} \
 --data-train ${tr_data} --data-val ${te_data} --exp-dir $base_exp_dir \
 --label-csv ./data/isolatedurban_label_indices.csv --n_class 5 \
