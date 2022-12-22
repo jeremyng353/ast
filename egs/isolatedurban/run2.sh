@@ -34,8 +34,6 @@ fstride=10
 tstride=10
 base_exp_dir=./exp/test-${dataset}-f$fstride-t$tstride-imp$imagenetpretrain-asp$audiosetpretrain-b$batch_size-lr${lr}
 
-python ./prep_esc50.py
-
 if [ -d $base_exp_dir ]; then
   echo 'exp exist'
   exit
