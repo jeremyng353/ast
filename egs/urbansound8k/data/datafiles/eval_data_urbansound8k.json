@@ -1,0 +1,2836 @@
+{
+    "data": [
+        {
+            "wav": "./data/datafiles/urbansound8k/118279-8-0-11.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/175850-1-0-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/15544-5-0-12.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/118558-5-1-2.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/24347-8-0-43.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/7389-1-4-7.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/17578-5-0-9.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/112075-5-0-0.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/128160-5-0-8.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/24347-8-0-92.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/22601-8-0-12.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/159742-8-0-9.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/22601-8-0-13.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/159748-8-0-8.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/159753-8-0-4.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/159745-8-1-1.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/176787-5-0-27.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/199769-1-0-10.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/66601-8-0-5.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/111386-5-1-10.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/17578-5-0-2.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/209992-5-3-6.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/24347-8-0-0.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/158608-8-0-4.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/157868-8-0-15.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/57323-8-0-6.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/157868-8-0-14.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/175848-1-0-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/113201-5-0-0.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/18592-5-0-1.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/17853-5-0-1.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/132073-1-3-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/17853-5-0-15.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/71177-8-1-1.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/107357-8-1-5.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/123688-8-0-8.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/164053-8-2-3.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/199769-1-0-7.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/187075-5-0-4.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/88121-8-0-0.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/113202-5-0-4.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/201652-5-3-2.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/72567-1-4-1.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/107357-8-0-0.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/74726-8-0-12.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/113201-5-0-3.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/94636-8-0-20.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/103258-5-0-8.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/39884-5-0-2.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/40722-8-0-0.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/102871-8-0-4.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/201988-5-0-3.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/176787-5-0-14.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/201988-5-0-14.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/42117-8-1-0.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/24347-8-0-84.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/73168-1-2-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/74726-8-0-8.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/168846-5-1-7.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/54898-8-0-2.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/201652-5-0-2.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/149193-5-0-4.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/102858-5-0-0.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/39856-5-0-7.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/16692-5-0-0.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/113203-5-0-3.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/7389-1-3-1.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/106015-5-0-13.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/73168-1-0-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/124389-8-1-17.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/39856-5-0-26.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/18594-1-4-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/166101-5-3-0.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/201988-5-0-0.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/74364-8-1-10.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/26184-5-4-0.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/49974-1-0-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/71177-8-0-0.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/72259-1-7-10.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/156634-5-0-9.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/90014-8-0-2.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/177592-5-0-0.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/71309-1-2-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/153057-1-0-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/72259-1-10-2.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/201988-5-0-13.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/128160-5-0-7.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/118279-8-0-9.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/144007-5-0-3.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/157868-8-0-25.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/157867-8-0-22.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/132073-1-4-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/105289-8-1-0.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/15544-5-0-11.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/123688-8-1-2.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/180156-1-8-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/148632-8-0-15.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/40722-8-0-1.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/148632-8-0-4.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/24347-8-0-59.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/175844-1-0-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/39857-5-0-0.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/166101-5-2-3.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/21187-5-0-0.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/144068-5-0-0.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/159750-8-0-0.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/19338-5-0-0.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/156634-5-0-12.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/187356-1-3-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/157866-8-0-22.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/113202-5-0-0.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/159750-8-0-8.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/39854-5-1-1.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/24347-8-0-82.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/39847-5-0-11.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/164782-8-0-3.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/22601-8-0-21.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/15544-5-0-9.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/18594-1-1-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/187356-1-2-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/203913-8-0-3.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/168846-5-1-13.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/135160-8-0-5.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/166101-5-2-2.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/71309-1-0-7.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/28808-1-0-8.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/165166-8-0-5.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/111671-8-0-13.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/39847-5-0-9.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/72259-1-3-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/39847-5-1-0.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/175851-1-0-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/93567-8-0-2.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/168846-5-1-6.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/144068-5-5-2.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/102857-5-0-23.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/159754-8-3-0.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/107357-8-1-14.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/17578-5-0-6.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/159742-8-0-2.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/121528-8-1-1.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/201652-5-4-3.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/83465-1-0-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/159747-8-0-12.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/50661-5-0-3.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/22601-8-0-23.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/123688-8-2-4.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/99812-1-4-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/111386-5-1-4.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/26184-5-4-2.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/159752-8-2-2.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/18592-5-0-0.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/201652-5-1-0.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/159742-8-0-8.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/42117-8-0-14.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/124389-8-1-11.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/50661-5-0-5.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/103249-5-0-15.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/157868-8-0-16.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/143115-1-4-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/149193-5-0-0.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/159738-8-0-1.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/176787-5-0-0.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/111386-5-0-7.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/103258-5-0-4.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/124389-8-1-8.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/22601-8-0-37.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/177592-5-0-3.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/176787-5-0-19.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/107357-8-0-6.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/201652-5-4-9.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/111671-8-0-20.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/159744-8-0-6.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/94632-5-0-0.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/195451-5-0-19.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/54187-1-0-4.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/71309-1-0-8.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/128160-5-0-5.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/156868-8-3-0.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/209992-5-2-131.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/72259-1-2-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/111386-5-1-1.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/113203-5-1-2.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/113201-5-0-1.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/24347-8-0-55.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/124389-8-1-18.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/19338-5-2-0.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/143604-5-0-0.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/180156-1-1-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/71177-8-1-3.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/201988-5-0-21.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/75490-8-1-1.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/148632-8-0-1.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/72259-1-0-4.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/156868-8-1-0.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/72259-1-9-7.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/113203-5-0-8.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/72259-1-9-12.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/157867-8-0-7.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/166101-5-0-3.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/143115-1-3-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/17578-5-0-27.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/91396-8-0-2.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/24347-8-0-98.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/195451-5-0-14.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/159751-8-0-10.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/34952-8-0-4.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/201988-5-0-9.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/24347-8-0-4.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/50661-5-0-0.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/99812-1-0-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/22601-8-0-46.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/54187-1-0-2.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/39856-5-0-20.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/72259-1-7-12.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/62878-8-0-2.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/72259-1-10-4.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/71309-1-1-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/102871-8-0-11.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/103249-5-0-13.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/156358-5-0-4.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/39856-5-0-2.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/164627-1-0-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/102871-8-0-10.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/28808-1-0-6.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/159751-8-0-20.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/16692-5-0-2.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/209992-5-2-115.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/201652-5-4-8.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/124389-8-1-15.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/26177-1-0-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/91533-5-0-3.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/128160-5-0-0.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/18594-1-3-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/157866-8-0-19.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/155283-1-0-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/159751-8-0-2.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/159754-8-1-0.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/203913-8-1-3.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/39852-5-0-0.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/74364-8-1-7.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/106015-5-0-9.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/46391-1-1-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/113202-5-0-27.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/78651-5-0-4.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/158608-8-0-0.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/39856-5-0-6.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/201652-5-4-1.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/144068-5-0-15.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/187075-5-0-6.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/157868-8-0-27.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/74726-8-0-15.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/156869-8-0-8.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/24347-8-0-68.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/209992-5-2-42.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/128465-1-0-5.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/7389-1-4-9.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/111671-8-0-3.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/103249-5-0-16.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/176787-5-0-25.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/24347-8-0-56.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/103249-5-0-19.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/123688-8-1-4.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/74726-8-1-1.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/186938-5-0-0.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/9674-1-0-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/118279-8-0-6.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/72259-1-9-2.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/98525-8-0-0.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/106905-5-0-1.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/201652-5-4-4.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/43806-8-0-0.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/148632-8-0-12.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/159751-8-0-19.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/159745-8-1-0.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/119449-5-0-2.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/152908-5-0-0.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/102871-8-0-13.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/162541-1-1-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/24347-8-0-89.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/201988-5-0-4.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/123685-5-0-3.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/24347-8-0-10.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/34952-8-0-0.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/22601-8-0-45.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/157867-8-0-23.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/24347-8-0-32.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/157868-8-0-1.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/24347-8-0-96.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/94401-1-0-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/74726-8-2-3.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/99812-1-2-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/128160-5-0-15.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/81068-5-0-2.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/149193-5-0-3.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/40717-8-0-3.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/111386-5-1-6.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/66601-8-0-1.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/123688-8-0-6.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/103258-5-0-10.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/7389-1-4-14.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/44278-1-1-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/105289-8-0-4.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/187075-5-0-2.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/113216-5-0-2.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/113203-5-0-2.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/156634-5-0-10.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/146186-5-0-8.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/125520-1-3-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/17074-1-0-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/93567-8-0-16.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/119449-5-0-1.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/94632-5-0-2.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/144068-5-4-5.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/111386-5-1-11.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/117181-8-0-5.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/152908-5-0-1.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/154758-5-0-11.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/50455-5-0-0.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/24347-8-0-91.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/102857-5-0-13.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/17578-5-0-8.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/195451-5-0-2.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/187075-5-0-0.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/17578-5-0-11.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/156194-1-0-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/72259-1-5-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/103249-5-0-4.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/123688-8-0-17.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/133473-8-0-0.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/72259-1-7-14.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/39856-5-0-9.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/157868-8-0-17.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/107228-5-0-3.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/94632-5-0-21.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/24347-8-0-46.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/177592-5-0-10.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/156091-1-0-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/111386-5-1-5.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/24076-1-1-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/71439-1-3-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/113203-5-4-0.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/22601-8-0-9.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/159744-8-0-13.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/154758-5-0-13.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/152908-5-0-4.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/149193-5-0-1.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/157866-8-0-27.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/159738-8-0-9.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/159752-8-2-0.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/157867-8-0-21.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/44735-5-0-0.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/111671-8-0-15.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/157867-8-0-18.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/106015-5-0-14.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/102857-5-0-2.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/201652-5-5-4.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/187075-5-0-5.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/74364-8-1-22.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/62878-8-0-0.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/159747-8-0-5.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/107357-8-1-18.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/113203-5-0-1.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/133473-8-0-4.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/74726-8-0-10.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/57323-8-0-8.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/72259-1-5-1.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/62566-5-0-7.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/50668-5-0-1.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/24347-8-0-88.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/106014-5-0-4.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/6988-5-0-0.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/18592-5-0-3.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/111671-8-0-17.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/7389-1-2-2.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/113203-5-8-0.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/75490-8-0-2.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/209992-5-2-26.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/72259-1-10-1.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/159748-8-0-9.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/78651-5-0-17.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/107357-8-0-4.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/23219-5-0-10.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/176787-5-0-12.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/177592-5-0-9.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/107357-8-1-10.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/123688-8-0-5.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/15544-5-0-2.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/7389-1-0-3.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/204765-1-0-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/113203-5-1-1.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/179861-1-0-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/177592-5-0-8.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/199769-1-0-1.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/7389-1-3-2.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/124389-8-1-6.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/159747-8-0-21.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/159750-8-0-1.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/107357-8-0-5.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/159748-8-0-2.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/132073-1-5-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/94632-5-0-15.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/200786-5-1-0.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/54187-1-0-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/144007-5-0-4.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/105289-8-2-2.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/124389-8-1-3.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/156869-8-0-10.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/168846-5-1-9.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/158608-8-0-8.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/156869-8-0-3.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/177592-5-0-4.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/39856-5-0-11.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/144068-5-0-7.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/144007-5-0-16.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/201652-5-2-2.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/201988-5-0-10.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/144068-5-0-8.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/144007-5-0-20.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/119449-5-0-0.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/62566-5-0-1.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/144007-5-0-6.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/72259-1-10-3.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/180156-1-9-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/159755-8-0-3.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/180156-1-12-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/111386-5-0-2.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/107357-8-0-1.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/123688-8-2-2.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/159738-8-0-0.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/105289-8-2-4.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/113202-5-0-5.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/72259-1-7-22.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/78651-5-0-14.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/24347-8-0-6.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/90014-8-0-3.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/71439-1-2-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/62566-5-0-6.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/113202-5-0-23.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/156869-8-0-9.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/96657-8-0-0.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/118558-5-1-1.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/201988-5-0-2.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/39857-5-5-0.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/159744-8-0-9.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/144007-5-0-21.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/34952-8-0-3.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/15544-5-0-19.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/201652-5-5-0.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/176003-1-0-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/90014-8-0-1.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/159742-8-0-10.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/113202-5-0-8.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/154758-5-0-15.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/123688-8-0-4.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/23219-5-0-6.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/107090-1-0-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/49769-5-0-0.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/124389-8-1-0.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/24347-8-0-34.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/62567-5-0-2.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/71309-1-0-1.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/152908-5-0-9.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/103249-5-0-11.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/209864-5-0-1.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/24347-8-0-90.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/93567-8-0-8.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/157868-8-0-23.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/185436-1-0-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/128465-1-0-6.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/94632-5-1-17.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/144068-5-0-14.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/111671-8-0-14.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/133473-8-0-3.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/72259-1-0-5.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/22601-8-0-33.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/159748-8-2-8.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/176787-5-0-26.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/175846-1-0-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/17578-5-0-24.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/117181-8-0-0.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/159752-8-0-4.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/119455-5-0-1.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/148632-8-0-3.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/26177-1-2-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/7389-1-4-12.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/195451-5-0-20.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/113203-5-1-0.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/144007-5-1-6.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/162703-1-0-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/111671-8-0-22.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/103258-5-0-7.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/22601-8-0-0.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/113202-5-0-3.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/118496-1-0-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/14524-1-0-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/185436-1-3-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/39856-5-0-13.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/24347-8-0-13.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/176787-5-0-24.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/24347-8-0-70.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/164625-1-0-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/183894-1-5-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/106014-5-0-0.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/7389-1-4-6.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/107357-8-1-11.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/179860-1-0-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/65472-1-0-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/200786-5-1-5.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/209992-5-3-5.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/24074-1-0-6.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/24347-8-0-53.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/179865-1-0-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/94632-5-1-26.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/143970-5-0-1.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/148632-8-0-6.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/39857-5-2-0.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/179866-1-0-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/66115-1-0-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/50668-5-0-2.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/168846-5-1-10.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/155129-1-2-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/74726-8-0-14.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/102857-5-0-18.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/159750-8-0-3.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/29932-1-1-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/168846-5-1-0.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/94636-8-0-1.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/22601-8-0-41.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/39856-5-0-23.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/57323-8-0-4.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/24347-8-0-29.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/113205-5-1-2.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/118279-8-0-7.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/113203-5-7-0.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/159752-8-0-12.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/152908-5-0-11.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/16692-5-0-8.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/62567-5-1-1.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/34952-8-0-2.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/159738-8-0-5.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/148632-8-0-0.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/157867-8-0-27.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/81068-5-2-0.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/72259-1-9-3.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/199769-1-0-9.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/102857-5-0-0.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/26185-1-0-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/144007-5-0-0.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/123688-8-0-7.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/7389-1-4-13.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/113205-5-1-4.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/74726-8-0-1.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/209992-5-4-1.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/159751-8-0-21.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/40717-8-0-6.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/15544-5-0-13.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/121528-8-1-0.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/157867-8-0-20.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/203913-8-0-6.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/7389-1-4-8.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/154758-5-0-14.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/72259-1-9-9.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/94636-8-0-16.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/72259-1-7-13.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/179867-1-0-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/159747-8-0-15.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/24347-8-0-36.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/159744-8-0-8.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/17592-5-0-0.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/102853-8-0-3.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/113205-5-1-7.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/113203-5-5-0.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/124389-8-1-12.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/105289-8-0-0.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/195451-5-0-1.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/105289-8-2-5.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/201652-5-2-0.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/28426-8-0-0.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/17853-5-0-7.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/24074-1-0-8.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/105289-8-1-4.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/201652-5-3-0.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/82317-1-0-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/91209-5-1-4.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/201988-5-1-0.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/57323-8-0-0.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/159738-8-0-13.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/24347-8-0-61.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/176787-5-0-2.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/168846-5-0-1.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/203913-8-0-1.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/144068-5-0-12.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/103258-5-0-13.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/22601-8-0-19.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/94020-8-1-0.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/39857-5-5-1.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/162702-1-1-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/176787-5-0-7.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/159738-8-0-7.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/144007-5-1-5.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/23219-5-1-1.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/135160-8-0-4.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/201988-5-0-20.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/74364-8-1-26.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/201652-5-0-3.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/159747-8-0-16.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/103249-5-0-17.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/103249-5-0-1.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/72259-1-10-7.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/152908-5-0-3.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/24074-1-0-11.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/17853-5-0-12.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/50668-5-0-0.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/138465-1-0-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/90014-8-0-6.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/199769-1-0-17.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/39856-5-0-27.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/175847-1-0-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/111386-5-0-4.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/71309-1-0-6.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/87275-1-1-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/144068-5-0-17.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/119455-5-0-4.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/144007-5-0-9.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/158608-8-0-10.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/157867-8-0-9.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/107357-8-1-7.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/144068-5-0-4.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/22601-8-0-26.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/146186-5-0-2.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/144007-5-0-13.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/113205-5-0-0.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/57323-8-0-1.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/155130-1-1-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/102871-8-0-7.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/176787-5-0-5.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/72259-1-7-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/111386-5-0-6.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/66601-8-0-2.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/165166-8-0-3.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/164782-8-0-7.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/106905-8-0-3.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/39856-5-0-16.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/159748-8-1-0.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/24347-8-0-25.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/113201-5-0-5.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/143115-1-2-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/39852-5-0-1.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/70740-8-0-0.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/22601-8-0-50.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/209992-5-4-15.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/102857-5-0-15.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/180156-1-10-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/159742-8-0-1.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/121299-1-0-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/144007-5-1-10.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/209992-5-2-137.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/62564-5-0-9.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/103258-5-0-1.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/166101-5-2-4.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/168846-5-1-2.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/187356-1-0-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/113202-5-0-19.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/159747-8-0-11.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/91209-5-1-0.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/159748-8-0-4.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/91533-5-0-0.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/24347-8-0-93.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/72259-1-8-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/124389-8-1-14.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/164782-8-0-4.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/159752-8-0-3.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/7389-1-0-2.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/128160-5-0-2.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/103249-5-0-6.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/16692-5-0-9.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/102857-5-0-26.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/159747-8-0-1.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/74364-8-1-1.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/74364-8-1-12.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/119455-5-0-7.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/111671-8-0-10.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/42117-8-0-7.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/24347-8-0-42.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/195451-5-0-9.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/113203-5-6-0.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/111386-5-1-0.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/88121-8-0-3.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/209992-5-2-91.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/94868-1-1-0.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/89724-5-0-0.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/78651-5-0-8.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/24347-8-0-35.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/62564-5-0-10.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/94632-5-0-6.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/94636-8-0-17.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/133473-8-0-1.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/28808-1-0-2.wav",
+            "labels": "/m/0912c9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/113202-5-0-25.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/40722-8-0-3.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/111386-5-1-7.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/159751-8-0-3.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/144068-5-4-1.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/123688-8-0-9.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/74726-8-0-5.wav",
+            "labels": "/m/03j1ly"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/156634-5-2-2.wav",
+            "labels": "/m/02mk9"
+        },
+        {
+            "wav": "./data/datafiles/urbansound8k/146186-5-0-1.wav",
+            "labels": "/m/02mk9"
+        }
+    ]
+}
